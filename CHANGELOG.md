@@ -11,7 +11,7 @@ Theodore Warren
 Image of my soldered lightshield
 ### Changed
 ...
-N/A
+image name
 
 ### Removed
 ...
